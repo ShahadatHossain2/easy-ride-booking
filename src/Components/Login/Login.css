@@ -1,0 +1,35 @@
+.buttonStyle{
+    color:white;
+    background-color: tomato;
+    border: none;
+}
+
+.submitForm input{
+    width: 90%;
+}
+.submitForm{
+    padding: 25px;
+    border: 1px solid lightgray;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 25px;
+}
+.loginButton {
+    width: 70%;
+    border: 1px solid lightgray;
+    border-radius: 10px !important;
+}
+.otherLogin{
+    width: 50%;
+    margin : auto;
+    margin-top: 20px;
+    text-align: center;
+    border-top: 1px solid lightgray;
+}
+.loginButton img{
+    width: 30px;
+    position: relative;
+    right: 90px;
+    border-radius: 10px;
+}
